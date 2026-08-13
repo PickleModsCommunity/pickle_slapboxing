@@ -1,6 +1,6 @@
 fx_version "cerulean"
 game "gta5"
-version "v1.0.4"
+version "v1.0.5"
 
 ui_page "nui/index.html"
 
